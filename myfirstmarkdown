@@ -11,13 +11,18 @@ pull and push requests
 and there are quite understandable and tricky notes like exploring market place and eploring others repositories
 
 
-The geeky Stuff is learning the new terminolgy of Github 
-like branching 
-forking
-cloning of a repo
-commiting , 
-pull and push requests
-and there are quite understandable and tricky notes like exploring market place and eploring others repositories
+Branching
+Forks
+Cloning *
+Commiting and Pushing
+Pull requests
+Issues
+Some basic Git commands are:
+git commit
+git commit --amend
+git config
+git fetch
+
 
 
 
